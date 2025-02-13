@@ -1,7 +1,7 @@
-package aleatorio;
+package LRU;
 import java.util.Scanner;
 
-public class GerenciadorMemoriaAleatorio {
+public class GerenciadorMemoria {
 
     // Classe interna Page
     static class Page {
